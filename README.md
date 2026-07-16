@@ -1,45 +1,27 @@
-<h1 align="center">Hi 👋, I'm Micky Maikash</h1>
+<h1 align="center">Hey 👋, I'm Micky Maikash</h1>
 
-<h3 align="center">💻 Developer | 📱 Android App Development Learner | 🚀 Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+👋;Learning+Android+Development+📱;Building+Projects+with+Code+🚀;Always+Learning+New+Technologies+💻" />
-</p>
+<h3 align="center">
+💻 Developer | 📱 Android App Developer in Progress | 🚀 Tech Explorer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MickyMaikash&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+👋;C%2B%2B+%7C+Python+%7C+Java+Developer;Learning+Android+Development+📱;Building+Projects+and+Improving+Everyday+🚀"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-```text
-👋 Hi, I'm Micky Maikash
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💻 A developer passionate about programming and technology.
+* 👨‍💻 Hi, I'm **Micky**
+* 💻 Passionate about programming and software development
+* 🌱 Currently learning **Android App Development**
+* 📱 Exploring mobile application development with Java/Kotlin
+* 🧠 Interested in problem solving and building real-world projects
+* ⚡ Always learning new technologies and improving my skills
 
-📚 I have knowledge in:
-   • C++
-   • Python
-   • Java
-   • JavaScript
-   • HTML
-   • CSS
-
-📱 Currently learning:
-   • Android App Development
-   • Kotlin
-   • Mobile Application Development
-
-🛠️ Tools I use:
-   • Android Studio
-   • IntelliJ IDEA
-   • VS Code
-
-🚀 My goal:
-   Build useful applications and become a better software developer.
-```
+<br>
 
 ---
 
@@ -53,46 +35,77 @@
 
 ---
 
-## 📱 Android Development Journey
+## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=android,kotlin"/>
+
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+<img src="https://skillicons.dev/icons?i=js" width="60"/>
+
 </p>
 
-Currently exploring:
+---
 
-* 📱 Android Application Development
-* ☕ Java & Kotlin for Android
-* 🎨 Creating user interfaces
-* 🔥 Building real-world apps
+## 📱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=android,kotlin"/>
+
+</p>
+
+<center>
+
+**Android Development Journey**
+📱 UI Design → ⚙️ App Logic → 🔥 Real Applications
+
+</center>
+
+---
+
+## 🔧 Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MickyMaikash&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MickyMaikash&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyMaikash&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyMaikash&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🚀 Goals
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyMaikash&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MickyMaikash/MickyMaikash/output/github-contribution-grid-snake.svg"/>
-</p>
+```text
+✔ Improve my programming skills
+✔ Build Android applications
+✔ Create useful projects
+✔ Learn new technologies
+✔ Contribute to open source
+```
 
 ---
 
@@ -109,5 +122,5 @@ Currently exploring:
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Keep coding 🚀
+⭐ Thanks for visiting my profile! Let's build something amazing 🚀
 </h3>
