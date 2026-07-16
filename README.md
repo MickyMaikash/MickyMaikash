@@ -1,126 +1,50 @@
 <h1 align="center">Hey 👋, I'm Micky Maikash</h1>
 
 <h3 align="center">
-💻 Developer | 📱 Android App Developer in Progress | 🚀 Tech Explorer
+🚀 Developer | 📱 Android Developer in Progress | 💡 Tech Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+👋;C%2B%2B+%7C+Python+%7C+Java+Developer;Learning+Android+Development+📱;Building+Projects+and+Improving+Everyday+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+👋;C%2B%2B+%7C+Python+%7C+Java+Developer;Learning+Android+Development+📱;Building+Projects+and+Growing+Everyday+🚀"/>
 </p>
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-* 👨‍💻 Hi, I'm **Micky**
-* 💻 Passionate about programming and software development
-* 🌱 Currently learning **Android App Development**
-* 📱 Exploring mobile application development with Java/Kotlin
-* 🧠 Interested in problem solving and building real-world projects
-* ⚡ Always learning new technologies and improving my skills
-
-<br>
-
----
-
-## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,kotlin,androidstudio,vscode,idea,git,github&perline=6"/>
-
+  <img src="https://komarev.com/ghpvc/?username=MickyMaikash&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 👨‍💻 About Me
 
-<p align="center">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-<img src="https://skillicons.dev/icons?i=java" width="60"/>
-<img src="https://skillicons.dev/icons?i=js" width="60"/>
+```yaml
+name: Micky Maikash
+role: Developer
 
-</p>
+passion:
+  - Software Development
+  - Mobile Applications
+  - Problem Solving
 
----
+languages:
+  - C++
+  - Python
+  - Java
+  - JavaScript
 
-## 📱 Currently Learning
+web:
+  - HTML
+  - CSS
 
-<p align="center">
+currently_learning:
+  - Android Development
+  - Kotlin
+  - Building Mobile Applications
 
-<img src="https://skillicons.dev/icons?i=android,kotlin"/>
-
-</p>
-
-<center>
-
-**Android Development Journey**
-📱 UI Design → ⚙️ App Logic → 🔥 Real Applications
-
-</center>
-
----
-
-## 🔧 Development Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MickyMaikash&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyMaikash&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyMaikash&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Goals
-
-```text
-✔ Improve my programming skills
-✔ Build Android applications
-✔ Create useful projects
-✔ Learn new technologies
-✔ Contribute to open source
-```
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/MickyMaikash">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Let's build something amazing 🚀
-</h3>
+tools:
+  - Android Studio
+  - IntelliJ IDEA
+  - VS Code
+  - Git
+  - GitHub
