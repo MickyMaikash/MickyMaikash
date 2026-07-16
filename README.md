@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋, I'm Micky Maikash
 
-<!--
-**MickyMaikash/MickyMaikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves learning new technologies and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I have experience with **C++, Python, Java, JavaScript, HTML, and CSS**
+* 📱 Currently learning **Android App Development**
+* 🛠️ Tools I use: **Android Studio, IntelliJ IDEA, and VS Code**
+* 🌱 Always exploring new concepts and improving my development skills
+* 🚀 Interested in software development, mobile applications, and problem solving
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+* C++
+* Python
+* Java
+* JavaScript
+
+### Web Technologies
+
+* HTML
+* CSS
+
+### Mobile Development
+
+* Android Development (Learning)
+* Android Studio
+
+### Development Tools
+
+* VS Code
+* IntelliJ IDEA
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+📱 Android App Development
+🔹 Building mobile applications
+🔹 Exploring modern development practices
+🔹 Improving my programming skills through projects
+
+---
+
+## 🎯 Goals
+
+* Build useful and creative applications
+* Contribute to open-source projects
+* Become a better software developer
+
+---
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and follow my coding journey 🚀
