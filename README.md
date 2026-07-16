@@ -5,7 +5,11 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+👋;Learning+Android+Development+📱;Exploring+Software+Development+💻;Building+Projects+Everyday+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+👋;Learning+Android+Development+📱;Building+Projects+with+Code+💻;Improving+Everyday+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MickyMaikash&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -20,63 +24,38 @@ I'm Micky 👋
 - 📱 Currently learning Android App Development
 - 🚀 Building projects and improving my skills
 - 🧠 Interested in software development and problem solving
+- 🌱 Exploring new technologies every day
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technologies I Use
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,kotlin,androidstudio,vscode,idea,git,github&perline=6"/>
+
 </p>
 
 ---
 
-## 💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
-</p>
 
 ---
 
-## 🌐 Web Development
+## 🚧 Currently Working On
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
----
-
-## 📱 Android Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=android,kotlin,androidstudio"/>
-</p>
+- 📱 Android Application Development
+- 💻 Improving programming concepts
+- 🧩 Creating personal projects
+- 🌱 Learning better development practices
 
 ---
 
-## ⚙️ Development Environment
+## 📂 Featured Projects
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github"/>
-</p>
-
----
-
-## 🚧 Currently Learning
-
-<p align="center">
-
-📱 Android Application Development  
-☕ Java & Kotlin  
-💻 Better Programming Practices  
-🚀 Building Real Projects  
-
+🚀 Coming Soon...
 </p>
 
 ---
@@ -96,7 +75,9 @@ I'm Micky 👋
 ## 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickyMaikash&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -106,8 +87,7 @@ I'm Micky 👋
 - 🚀 Become a better software developer
 - 📱 Build useful Android applications
 - 🌍 Contribute to open source
-- 💡 Learn new technologies
-- 🔥 Improve every day
+- 💡 Keep learning new technologies
 
 ---
 
