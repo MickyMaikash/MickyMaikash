@@ -31,8 +31,10 @@ Hello, I'm Micky 👋
 ## 💻 Languages
 
 <p align="left">
+<picture>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,kotlin&perline=7"/>
+</picture>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,kotlin&perline=7"/>
 
 </p>
 
@@ -41,9 +43,9 @@ Hello, I'm Micky 👋
 ## 🛠️ Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,git,github&perline=5"/>
-
+<picture>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,git,github&perline=5"/>
+</picture>
 </p>
 
 ---
@@ -57,7 +59,7 @@ Hello, I'm Micky 👋
 </p>
 
 Learning:
-- Android Studio
+- Android Architecture
 - Kotlin
 - UI Development
 - App Logic
