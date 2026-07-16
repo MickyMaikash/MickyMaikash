@@ -28,7 +28,7 @@ Hello, I'm Micky 👋
 
 ## 💻 Languages
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,kotlin&perline=7"/>
 
@@ -38,7 +38,7 @@ Hello, I'm Micky 👋
 
 ## 🛠️ Tools
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,git,github&perline=5"/>
 
