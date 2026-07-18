@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Micky Maikash</h1>
+<h1 align="center">Hi 👋, I'm Micky/Maikash</h1>
 
 <h3 align="center">
 💻 Developer | 📱 Android Developer in Progress | 🚀 Tech Enthusiast
@@ -82,13 +82,14 @@ My future Android apps and coding projects will be added here.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+  <picture>
+  <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MickyMaikash&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickyMaikash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagmashaikh8409-commits&theme=tokyonight&hide_border=true"/>
 
 </p>
+  </picture>
+
 
 ---
 
