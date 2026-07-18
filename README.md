@@ -52,11 +52,7 @@ Hello, I'm Micky 👋
 
 ## 📱 Android Learning
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=android,kotlin"/>
-
-</p>
 
 Learning:
 - Android Architecture
