@@ -106,7 +106,7 @@ The project focuses on **simplicity, speed, and privacy** by processing files co
 - ⚡ Browser APIs for client-side file processing
 
 🔗 [View Repository](https://github.com/MickyMaikash/Toolsy)
-Explore the live version of Toolsy:
+- Explore the live version of Toolsy:
 
 ➡️ [Open Toolsy](https://mickymaikash.github.io/Toolsy/)
 
