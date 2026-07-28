@@ -65,15 +65,25 @@ Learning:
 
 ## 📂 Projects
 
-<p align="center">
+### 📱 NotesApp-MVVM
 
-🚀 Projects coming soon...
+> A fully functional **offline Notes application** built using **Kotlin** and the **MVVM architecture pattern**.
 
-</p>
+This is my first Kotlin project where I implemented modern Android development practices:
 
-I am currently learning and creating projects.
-My future Android apps and coding projects will be added here.
+- 🏗️ **MVVM Architecture Pattern**
+- 💉 **Dependency Injection** using Kodein
+- 🗄️ **Local Data Storage** using Room Database
 
+#### ✨ Features
+- 📝 Rich text editing
+- 🔍 Search notes
+- 📂 Archive notes
+- 🗑️ Trash management
+- ☑️ Multiple note selection actions
+- 🌙 Light/Dark theme support
+
+🔗 **Repository:** [NotesApp-MVVM](https://github.com/MickyMaikash/NotesApp-MVVM.git)
 ---
 
 ## 📊 GitHub Stats
