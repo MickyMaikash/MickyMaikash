@@ -83,7 +83,36 @@ This is my first Kotlin project where I implemented modern Android development p
 - ☑️ Multiple note selection actions
 - 🌙 Light/Dark theme support
 
-🔗 **Repository:** [NotesApp-MVVM](https://github.com/MickyMaikash/NotesApp-MVVM.git)
+🔗 Repository: [NotesApp-MVVM](https://github.com/MickyMaikash/NotesApp-MVVM)
+
+### 🛠️ Toolsy
+
+> A collection of lightweight file utilities built with **HTML, CSS, and JavaScript** that allows users to perform common image and PDF tasks directly in the browser.
+
+The project focuses on **simplicity, speed, and privacy** by processing files completely on the client side without requiring a backend server.
+
+**✨ Features**
+- 🖼️ Image resizing
+- 🔄 Image format conversion
+- 📦 Image compression
+- 📄 PDF merging
+- ✂️ PDF splitting
+- 💧 PDF watermarking
+
+**🚀 Technologies Used**
+- 🌐 HTML5, CSS3, JavaScript
+- 📑 PDF.js for reading and rendering PDF files
+- 📝 PDF-LIB for creating and editing PDF documents
+- ⚡ Browser APIs for client-side file processing
+
+🔗 [View Repository](https://github.com/MickyMaikash/Toolsy)
+Explore the live version of Toolsy:
+
+➡️ [Open Toolsy](https://mickymaikash.github.io/Toolsy/)
+
+---
+
+
 ---
 
 ## 📊 GitHub Stats
