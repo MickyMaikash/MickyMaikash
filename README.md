@@ -112,14 +112,25 @@ The project focuses on **simplicity, speed, and privacy** by processing files co
 
 
 ### 📚 MaikashDocs
-My personal documentation and learning notes website.
 
-- Built with React + Vite
-- Markdown-based documentation
-- Searchable documentation
-- Sidebar navigation
-- Next / Previous document navigation
-- Hosted online
+> A personal **documentation and learning notes website** built to organize and revise programming concepts.
+
+This is my personal documentation project where I write and organize what I learn:
+
+- ⚛️ **React + Vite**
+- 📝 **Markdown-based documentation**
+- 🔍 **Document search**
+- 📂 **Sidebar topic navigation**
+- ⏭️ **Next / Previous document navigation**
+
+#### ✨ Features
+- 📚 Organized topics and subtopics
+- 🔎 Search through documentation
+- ➡️ Next / Previous page navigation
+- 📄 Markdown-based notes
+- 📱 Responsive documentation layout
+
+🔗 Repository: [MaikashDocs](https://github.com/MickyMaikash/MaikashDocs)
 
 ---
 
