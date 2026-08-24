@@ -110,6 +110,17 @@ The project focuses on **simplicity, speed, and privacy** by processing files co
 
 ➡️ [Open Toolsy](https://mickymaikash.github.io/Toolsy/)
 
+
+### 📚 MaikashDocs
+My personal documentation and learning notes website.
+
+- Built with React + Vite
+- Markdown-based documentation
+- Searchable documentation
+- Sidebar navigation
+- Next / Previous document navigation
+- Hosted online
+
 ---
 
 
