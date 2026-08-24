@@ -117,11 +117,9 @@ The project focuses on **simplicity, speed, and privacy** by processing files co
 
 This is my personal documentation project where I write and organize what I learn:
 
+🛠️ Built With
 - ⚛️ **React + Vite**
 - 📝 **Markdown-based documentation**
-- 🔍 **Document search**
-- 📂 **Sidebar topic navigation**
-- ⏭️ **Next / Previous document navigation**
 
 #### ✨ Features
 - 📚 Organized topics and subtopics
